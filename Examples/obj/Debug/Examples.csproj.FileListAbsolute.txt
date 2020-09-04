@@ -1,0 +1,7 @@
+C:\Users\THI2001558\source\repos\Examples\Examples\bin\Debug\Examples.exe.config
+C:\Users\THI2001558\source\repos\Examples\Examples\bin\Debug\Examples.exe
+C:\Users\THI2001558\source\repos\Examples\Examples\bin\Debug\Examples.pdb
+C:\Users\THI2001558\source\repos\Examples\Examples\obj\Debug\Examples.csproj.CoreCompileInputs.cache
+C:\Users\THI2001558\source\repos\Examples\Examples\obj\Debug\Examples.exe
+C:\Users\THI2001558\source\repos\Examples\Examples\obj\Debug\Examples.pdb
+C:\Users\THI2001558\source\repos\Examples\Examples\obj\Debug\Examples.csprojAssemblyReference.cache
